@@ -14,6 +14,7 @@ namespace ArrayStuffs
             int[] array = { 25, 85, 95, 87, 25, 87, 96, 25, 45 };
             nmb.sumArray(array);
             nmb.productArray(array);
+            nmb.reverseArray(array);
             Console.ReadKey();
         }
     }
